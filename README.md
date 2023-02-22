@@ -1,2 +1,2 @@
 # Projeto-Site-Cordel
- Site feito para treinar o efeito simples de Parallax
+ Site feito para práticar efeito simples de Parallax
